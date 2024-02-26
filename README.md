@@ -1,4 +1,4 @@
-# Comparison of Password Strength Analysis Using a Probabilistic Context-Free Grammar and a First-Order Markov Model
+# Comparison of Password Strength Modeling Using a Probabilistic Context-Free Grammar and a First-Order Markov Model
 
 2022-2023 Research Project.
 
